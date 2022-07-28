@@ -1,2 +1,2 @@
-# restoraunts_with_folium
+# restaurants_with_folium
 Testing folium by mapping Helsinki restaurants.
